@@ -1,4 +1,5 @@
-#Hi there 👋
+# Hi there 👋
+
 I'm currently learning programming and building my skills through practice, small projects, and problem-solving.
 
 🌱 Currently Learning Python C C++ Problem-solving
