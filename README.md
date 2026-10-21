@@ -2,9 +2,9 @@
 
 I'm currently learning programming and building my skills through practice, small projects, and problem-solving.
 
-🌱 Currently Learning Python C C++ Problem-solving
+🌱 Currently Learning Python C C++ Rust and Problem-solving skills
 
-🛠️ Tools & Technologies Python C C++ VS Code
+🛠️ Tools & Technologies Python C C++ Rust VSCode
 
 📈 My Journey
 
